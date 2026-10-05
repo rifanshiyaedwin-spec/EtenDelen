@@ -1,0 +1,6 @@
+{
+  "name": "EtenDelen - Food Waste Reduction & Surplus Redistribution",
+  "description": "Share Surplus. Reduce Waste. Feed Communities. Connect food donors with verified NGOs, volunteers, and beneficiaries.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
